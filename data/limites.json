@@ -1,0 +1,276 @@
+{
+    "Argentina": [
+        "Perú",
+        "Chile",
+        "Uruguay",
+"Brasil"
+    ],
+    "Taymir": [
+        "Siberia",
+        "Tartaria"
+    ],
+    "España": [
+        "Francia",
+"Sahara",
+"Gran Bretaña"
+    ],
+    "Groenlandia": [
+"Labrador",
+"Nueva York",
+"Islandia"
+],
+    "India": [
+        "Malasia",
+        "China",
+        "Irán",
+"Sumatra"
+    ],
+    "Rusia": [
+        "Polonia",
+        "Aral",
+"Suecia",
+"Turquía",
+"Irán"
+    ],
+    "Yukon": [
+        "Alaska",
+        "Oregón",
+"Canadá"
+    ],
+    "Egipto": [
+        "Etiopía",
+        "Israel",
+"Turquía",
+"Madagascar",
+"Polonia",
+"Sahara"
+    ],
+    "Kamtchatka": [
+        "Japón",
+        "Siberia",
+"China",
+"Alaska"
+    ],
+    "Etiopía": [
+        "Egipto",
+        "Zaire",
+        "Sudáfrica",
+"Sahara"
+    ],
+    "Irán": [
+        "Turquía",
+        "Gobi",
+        "Mongolia",
+"Aral",
+"India",
+"Rusia"
+    ],
+    "Uruguay": [
+        "Brasil",
+        "Argentina"
+    ],
+    "Italia": [
+        "Francia",
+        "Alemania"
+    ],
+    "Chile": [
+        "Perú",
+        "Argentina",
+"Australia"
+    ],
+    "Gobi": [
+        "Irán",
+        "Mongolia",
+        "China"
+    ],
+    "Francia": [
+        "España",
+        "Alemania",
+        "Italia"
+    ],
+    "Sumatra": [
+        "India",
+        "Australia"
+    ],
+    "Colombia": [
+        "Perú",
+        "Brasil",
+"México"
+    ],
+    "Madagascar": ["Egipto",
+"Zaire"
+],
+    "Borneo": [
+        "Malasia",
+        "Australia"
+    ],
+    "Israel": [
+        "Egipto",
+        "Turquía",
+        "Arabia"
+    ],
+    "Perú": [
+        "Colombia",
+        "Brasil",
+        "Argentina",
+        "Chile"
+    ],
+    "Zaire": [
+        "Sahara",
+        "Etiopía",
+        "Sudáfrica",
+"Madagascar"
+    ],
+    "Islandia": [
+"Groenlandia",
+"Gran Bretaña",
+"Suecia"
+],
+    "Alaska": [
+        "Yukon",
+        "Oregón",
+"Kamtchatka"
+    ],
+    "Brasil": [
+        "Colombia",
+        "Perú",
+        "Uruguay",
+"Argentina",
+"Sahara"
+    ],
+    "Siberia": [
+        "Aral",
+        "Mongolia",
+        "Tartaria",
+        "Taymir",
+"Kamtchatka",
+"China"
+    ],
+    "Alemania": [
+        "Francia",
+        "Italia",
+        "Polonia",
+        "Gran Bretaña"
+    ],
+    "Turquía": [
+        "Polonia",
+        "Arabia",
+        "Israel",
+        "Irán",
+"Rusia",
+"Egipto"
+    ],
+    "Gran Bretaña": [
+        "España",
+"Alemania",
+"Islandia"
+    ],
+    "Mongolia": [
+        "Irán",
+        "Gobi",
+        "Siberia",
+        "China",
+"Aral"
+    ],
+    "China": [
+        "India",
+        "Malasia",
+        "Gobi",
+"Japón",
+"Kamtchatka",
+"Siberia",
+"Mongolia"],
+    "Suecia": [
+"Rusia",
+"Islandia"
+],
+    "Nueva York": [
+        "California",
+        "Terranova",
+"Oregón",
+"Canadá",
+"Groenlandia"
+    ],
+    "Arabia": [
+        "Turquía",
+        "Israel"
+    ],
+    "México": [
+        "California",
+"Colombia"
+    ],
+    "California": [
+        "Oregón",
+        "México",
+        "Nueva York"
+    ],
+    "Aral": [
+        "Rusia",
+        "Siberia",
+        "Tartaria",
+"Irán",
+"Mongolia"
+    ],
+    "Canadá": [
+"Yukon",
+"Nueva York",
+"Oregón",
+"Terranova"
+],
+    "Japón": [
+        "Kamtchatka",
+"China"
+    ],
+    "Terranova": [
+        "Labrador",
+        "Nueva York",
+"Canadá"
+    ],
+    "Sudáfrica": [
+        "Etiopía",
+        "Zaire"
+    ],
+    "Sahara": [
+        "Zaire",
+"Etiopía",
+"Egipto",
+"España",
+"Brasil"
+    ],
+    "Oregón": [
+        "Alaska",
+        "Yukon",
+        "California",
+"Canadá",
+"Nueva York"
+    ],
+    "Australia": [
+"Sumatra",
+"Borneo",
+"Java",
+"Chile"
+],
+    "Labrador": [
+        "Terranova",
+"Groenlandia"
+    ],
+    "Polonia": [
+        "Alemania",
+        "Rusia",
+        "Turquía",
+"Egipto"
+    ],
+    "Malasia": [
+        "India",
+        "China",
+        "Borneo"
+    ],
+    "Tartaria": [
+        "Aral",
+        "Siberia",
+        "Taymir"
+    ],
+    "Java": [
+        "Australia"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "América del Norte": [
+        "Alaska",
+        "Yukon",
+        "Oregón",
+        "California",
+        "México",
+        "Terranova",
+        "Labrador",
+        "Groenlandia",
+        "Canadá",
+        "Nueva York"
+    ],
+    "América del Sur": [
+        "Colombia",
+        "Perú",
+        "Brasil",
+        "Argentina",
+        "Chile",
+        "Uruguay"
+    ],
+    "Europa": [
+        "Islandia",
+        "Gran Bretaña",
+        "España",
+        "Francia",
+        "Alemania",
+        "Italia",
+        "Polonia",
+        "Rusia",
+        "Suecia"
+    ],
+    "África": [
+        "Sahara",
+        "Egipto",
+        "Etiopía",
+        "Zaire",
+        "Sudáfrica",
+        "Madagascar"
+    ],
+    "Asia": [
+        "Turquía",
+        "Arabia",
+        "Israel",
+        "Irán",
+        "Aral",
+        "India",
+        "Malasia",
+        "Japón",
+        "Gobi",
+        "Mongolia",
+        "Siberia",
+        "China",
+        "Tartaria",
+        "Taymir",
+        "Kamtchatka"
+    ],
+    "Oceanía": [
+        "Australia",
+        "Java",
+        "Sumatra",
+        "Borneo"
+    ]
+}
